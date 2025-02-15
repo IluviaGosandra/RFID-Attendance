@@ -151,6 +151,18 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 						<label for="division">Divisi</label>
 						<select class="form-control" name="division">
             <option value="pwti">PWTI</option>
+            option value="kahim">Ketua Himpunan</option>
+							<option value="pwti">Wakil Ketua Himpunan</option>
+							<option value="pwti">Bendahara Umum</option>
+							<option value="pwti">Sekertaris Umum</option>
+							<option value="pwti">Kepala Divisi PWTI</option>
+							<option value="pwti">Kepala Divisi KOMINFO</option>
+							<option value="pwti">Kepala Divisi PAO</option>
+							<option value="pwti">Kepala Divisi SOSMA</option>
+							<option value="pwti">Kepala Divisi KESMA</option>
+							<option value="pwti">Kepala Divisi KESRA</option>
+							<option value="pwti">Kepala Divisi KWU</option>
+							<option value="pwti">PWTI</option>
 							<option value="kominfo">KOMINFO</option>
 							<option value="pao">PAO</option>
 							<option value="sosma">SOSMA</option>
